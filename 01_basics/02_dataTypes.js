@@ -9,10 +9,10 @@ console.log(3
 console.log("Hitesh")
 
 
-let name = "hitesh"
-let age = 18
-let isLoggedIn = false
-let state;
+let name = "hitesh" //String
+let age = 18 //number
+let isLoggedIn = false // boolean
+let state; //Undefined
 
 // number => 2 to power 53
 // bigint
